@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN stack developer skilled in building dynamic web applications with MongoDB, Express.js, React.js, and Node.js. Passionate about crafting responsive user interfaces and robust back-end solutions. Let's innovate together on GitHub!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitpatil123" alt="arpitpatil123" /></a> </p>
 
